@@ -1,0 +1,2 @@
+# EX5MetaTrader
+cross
